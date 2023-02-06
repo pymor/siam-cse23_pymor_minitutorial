@@ -1,3 +1,2 @@
 pymor==2022.2.0
 matplotlib
-ipywidgets<8
