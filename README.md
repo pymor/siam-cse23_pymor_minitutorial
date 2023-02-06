@@ -12,5 +12,5 @@ Tested on Python 3.8
     python -m venv .venv
     source .venv/bin/activate
     pip install -U pip setuptools wheel
-    pip install -r requirements.txt
-    jupyter-notebook
+    pip install -r dev-requirements.txt
+    jupyter-lab
