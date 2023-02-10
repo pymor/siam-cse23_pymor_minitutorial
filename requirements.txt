@@ -45,5 +45,9 @@ scipy==1.10.0
     # via pymor
 six==1.16.0
     # via python-dateutil
+torch==1.11.0
+    # via -r requirements.in
 typer==0.7.0
     # via pymor
+typing-extensions==4.4.0
+    # via torch
