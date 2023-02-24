@@ -2,8 +2,12 @@
 
 ## Running Online (Binder)
 
-Click on the link:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pymor/siam-cse23_pymor_minitutorial/HEAD)
+- Run on [mybinder.org](https://mybinder.org) infrastructure:&nbsp;&nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pymor/siam-cse23_pymor_minitutorial/HEAD?filepath=content)
+- Run on [Uni Münster](https://www.uni-muenster.de) infrastructure:&nbsp;&nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://binderhub.uni-muenster.de/v2/gh/pymor/siam-cse23_pymor_minitutorial/HEAD?filepath=content&token=c35b1d33ae482736)
+
+## Running Locally (JupyterLite)
+
+- Run as WebAssembly in your browser using [JupyterLite](https://jupyterlite.readthedocs.io):&nbsp;&nbsp;[![JupyterLite](https://jupyterlite.readthedocs.io/en/latest/_static/badge.svg)](https://pymor.github.io/siam-cse23_pymor_minitutorial)
 
 ## Running Locally (Linux)
 
