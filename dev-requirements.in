@@ -1,3 +1,2 @@
 -c requirements.txt
-ipywidgets<8
 jupyterlab
