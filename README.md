@@ -17,7 +17,7 @@ Tested on Python 3.8
     source .venv/bin/activate
     pip install -U pip setuptools wheel
     pip install -r requirements.txt
-    pip install -r dev-requirements.txt
+    pip install -r requirements-jupyterlab.txt
     jupyter-lab
 
 
