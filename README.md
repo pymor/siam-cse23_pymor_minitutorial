@@ -19,3 +19,8 @@ Tested on Python 3.8
     pip install -r requirements.txt
     pip install -r dev-requirements.txt
     jupyter-lab
+
+
+## Running in an existing jupyter environment
+
+    pip install git+https://github.com/pymor/pymor@siam-cse23
