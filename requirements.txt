@@ -33,7 +33,7 @@ packaging==23.0
     #   qtpy
 pillow==9.4.0
     # via matplotlib
-pymor==2022.2.0
+pymor @ git+https://github.com/pymor/pymor@siam-cse23
     # via -r requirements.in
 pyparsing==3.0.9
     # via matplotlib
